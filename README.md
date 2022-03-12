@@ -1,6 +1,6 @@
 # pcb component detection/recognition
 
-This code shows the train and test of neural network in electronics components identification
+This code shows the train and test of a YOLOV5 convolutional neural network for recognition of electronics components identification
 
 download those files and put in a folder named Real_PCB and upload to your google drive: 
 
