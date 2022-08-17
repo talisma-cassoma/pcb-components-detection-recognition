@@ -36,17 +36,15 @@ To test the the models you only need de results. its also commented
 yolov5 allows you to test the model using videos images even your web camera if you setup it your machine    
 
 ### ABOUT THE RESULTS 
+<br>
+<p align="center">
+  <IMG src="yolov5s_results15/labels_correlogram.jpg"  width="30%">
+  <IMG src="yolov5s_results15/labels.jpg"  width="30%">
+</p>
 
-<table>
-  <tr>
-    <td><IMG src="yolov5s_results15/labels_correlogram.jpg"  width="30%"></td>
-    <td><IMG src="yolov5s_results15/labels.jpg"  width="30%"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-<IMG src="yolov5s_results15/train_batch0.jpg" width="30%">
-<IMG src="yolov5s_results15/train_batch1.jpg" width="30%">
-<IMG src="yolov5s_results15/train_batch2.jpg" width="30%">
-  </tr>
-</table>
+
+<p align="center">
+      <IMG src="yolov5s_results15/train_batch0.jpg" width="30%">&nbsp
+      <IMG src="yolov5s_results15/train_batch1.jpg" width="30%">&nbsp
+      <IMG src="yolov5s_results15/train_batch2.jpg" width="30%">
+</p>
