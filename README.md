@@ -2,13 +2,14 @@
 
 This code shows the train and test of a YOLOV5 convolutional neural network for recognition of electronics components
 
+see the model working on video: <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6893204326802948096">here</a>
+
+
+## 🔥 SETUP
+
 download the folder and upload to your google drive put in a dir named /Real_PCB/Databset/ :
 
 <a href="https://drive.google.com/drive/folders/1odzD298ImaHI3NKozQNGIgKbflzgSWIn?usp=sharing">here</a> it's the dataset originaly created by Animeshkumar Nayak(available on Kaggle) with some improvements that i made in roboflow
-
-see the model working on video: <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6893204326802948096">here</a>
-
-## 🔥 SETUP
 
 This is how should look the projet struture :  
 ```
