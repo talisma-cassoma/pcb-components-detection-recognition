@@ -38,7 +38,7 @@ yolov5 allows you to test the model using videos images even your web camera if 
 
 ### ABOUT THE RESULTS 
 
-(see the short video demo: <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6893204326802948096">here</a>)
+<p align="center">(see the short video demo: <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6893204326802948096">here</a>)</p>
 <br>
 <p align="center">
   <IMG src="yolov5s_results15/labels_correlogram.jpg"  width="30%">
