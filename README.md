@@ -38,7 +38,7 @@ yolov5 allows you to test the model using videos images even your web camera if 
 
 ### ABOUT THE RESULTS 
 
-<p align="center">(see the short video demo: <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6893204326802948096">here</a>)</p>
+<p align="center">(see more results here: <a href="https://www.linkedin.com/posts/talisma-manuel-88ba571b2_pcbabrreverseabrengineering-pcbabrcomponentsabrdetection-activity-6886833553330454528-IEHL?utm_source=share&utm_medium=member_desktop"> here </a>)</p>
 <br>
 <p align="center">
   <IMG src="yolov5s_results15/labels_correlogram.jpg"  width="30%">
